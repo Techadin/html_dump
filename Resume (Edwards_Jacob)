@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <title>JEdwards CV</title>
+	</head>
+	<body>
+        <h1>Jacob Edwards</h1>
+		<p><strong>Cloud & IT Engineer</strong></p>
+		<img src="https://cdn2.iconfinder.com/data/icons/avatars-99/62/avatar-370-456322-512.png" />
+		___________________________________________
+		<h2>Summary</h2>
+		<p>"Out of the box" work style with many notable projects</p>
+		<h2><i>Experience</i></h2>
+			<ul>
+				<li><b>Cloud & IT Operations Engineer</b></li>
+					<p>Maintain all cloud and it operations within the company</p>
+				</li>
+			</ul>
+		<h2><i>Skills</i><h2>
+			<table border="1">
+			<tr>
+				<th>Skillsets</th>
+				<td>Active Directory</td>
+				<td>AWS</td>
+			</tr>
+			</table>
+		<h2><i>Contacts</i><h2>
+		<a href="https://www.linkedin.com/in/jacob-edwards-652712166/" target="_blank">Linkedin</a>
+		<a href="https://github.com/Techadin" target="_blank">GitHub</a>
+
+		<h2><i>Write Me A Message</i></h2>
+		<form>
+			<input placeholder="Name"/><br>
+			<input placeholder="Email"/><br>
+			<textarea placeholder="Message" require ></textarea><br>
+			<input type="submit" value="SEND"/>
+		</form>
+	</body> 
+</html>
