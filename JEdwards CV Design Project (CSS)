@@ -1,0 +1,19 @@
+.heading{
+    font-size: 35px;
+}
+.intro{
+    background-color:
+  #2F5A78;
+}
+body{
+    font-family: 'Arial', 'Arial', 'Times New Roman'
+}
+.prof{
+    font-size: 20px;
+}
+.contactinfo{
+    font-size: 15px;
+}
+.subheading{
+    font-size: 15px;;
+}
